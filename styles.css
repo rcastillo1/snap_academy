@@ -1,0 +1,13 @@
+.center{
+    text-align: center;
+}
+*{
+    background-color: coral;
+}
+.fonts{
+    font-style: normal;
+    font-family: cursive;
+}
+.my-line{
+    border-bottom: 1px solid goldenrod;
+}
